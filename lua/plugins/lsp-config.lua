@@ -15,6 +15,7 @@ return {
 					"phpactor",
           "html",
           "gopls",
+          "clangd",
 				},
 			})
 		end,
