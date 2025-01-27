@@ -18,4 +18,3 @@ local opts = {}
 
 require("vim-options")
 require("lazy").setup("plugins")
-vim.cmd.colorscheme[[colorscheme dracula-soft]] 
