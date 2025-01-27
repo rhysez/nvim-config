@@ -18,6 +18,4 @@ local opts = {}
 
 require("vim-options")
 require("lazy").setup("plugins")
-require("catppuccin").setup()
-vim.cmd.colorscheme "catppuccin"
-
+vim.cmd.colorscheme[[colorscheme dracula-soft]] 
